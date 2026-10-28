@@ -1,0 +1,8 @@
+{
+  "name": "sales-weekly-report",
+  "description": "판매관리.xlsx(판매/재고 시트)에서 주간 판매 리포트 엑셀을 수식 기반으로 생성",
+  "version": "1.0.0",
+  "author": {
+    "name": "heonq"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sales-skills",
+  "owner": {
+    "name": "heonq"
+  },
+  "metadata": {
+    "description": "판매 데이터 관련 Claude 스킬 모음"
+  },
+  "plugins": [
+    {
+      "name": "sales-weekly-report",
+      "source": "./plugins/sales-weekly-report",
+      "description": "판매관리.xlsx에서 주간 판매 리포트 엑셀(N월 M주차.xlsx)을 생성",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
